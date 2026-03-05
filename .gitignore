@@ -1,0 +1,22 @@
+# SECURITY: Never commit environment variables or browser profiles!
+.env
+chrome_profile/
+
+# Python Virtual Environment
+venv/
+env/
+
+# Compiled Python Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated Output Files
+generated_post_image.png
+
+# VS Code Settings
+.vscode/
+
+# Log Files
+*.log
