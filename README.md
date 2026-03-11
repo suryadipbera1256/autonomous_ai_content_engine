@@ -1,10 +1,12 @@
 # Autonomous AI Content Engine
-
+![Python 3.14](https://img.shields.io/badge/Python_3.14-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Gemini 2.5 Flash](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Stability AI](https://img.shields.io/badge/Stability_AI-5A189A?style=for-the-badge) ![LinkedIn API](https://img.shields.io/badge/LinkedIn_API_(Requests)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows Task Scheduler](https://img.shields.io/badge/Windows_Task_Scheduler-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 > **Portfolio Project:** AI & Data Engineering Track
+>
 > **Domain:** Generative AI / Automation / API Orchestration
+> 
 > **Status:** Production-Ready (Local)
 
-### System Architecture
+## System Architecture
 
 The automation pipeline is designed for real-time data ingestion, multi-modal LLM processing, and secure programmatic publishing via REST APIs.
 
